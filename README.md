@@ -1,1 +1,7 @@
-# -360-Financial-Exploratory-Data-Analysis-Engine
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+openpyxl
